@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XMLbible.html
+ -- James Skon March 29, 2017
+ -- Kenyon College
+ -->
+<!DOCtype html
+  PUBLIC "-//W3C//Dtd XHTML 1.0 Strict//EN" "Dtd/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html>
+<head>
+<title>XML Bible Demo - Kenyon(Jim Skon)</title>
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script type = "text/javascript" src="XMLBible.js">
+</script>
+</head>
+<body>
+<form onsubmit="return false">
+<table>
+<h1> Kenyon Bible XML Demo Program </h1>
+<td align=right align=top>Book</td>
+<td align=left align=top><input name="book" type="text" maxlength=2  id=book></td>
+</tr>
+<tr>
+<td align=right align=top>Chapter</td>
+<td align=left align=top><input name="chapter" type="text" maxlength=3  id=chapter></td>
+</tr>
+<tr>
+<td align=right align=top>Verse</td>
+<td align=left align=top><input name="verse" type="text" maxlength=3 id=verse></td>
+</tr>
+<tr>
+<td align=right align=top>Numbers of Verses</td>
+<td align=left align=top><input name="numVerse" type="text" maxlength=3 id=numVerse></td>
+</tr>
+
+</table>
+
+<p>
+<input type="Button" id="lookup" name="getverses" value="Submit" />
+</p>
+
+<div id = "responseArea">
+</div>
+</form>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book isbn10="345678567" isbn13="34123456567897">
+    <title>The Science of Explosions</title>
+    <author fname="Nick" lname="Downey">Nick Downey</author>
+    <publisher>Books Ahoy!</publisher>
+    <price>132.56</price>
+  </book>
+  <book isbn10="1234567890" isbn13="1234567890123">
+    <title>XML for Kenyon</title>
+    <author fname="james" lname="skon">James Skon</author>
+    <publisher>Kenyon Review</publisher>
+    <price>1.99</price>
+  </book>
+  <book isbn10="8957468873" isbn13="0984837828189">
+    <title>C++ on the hill</title>
+    <author fname="noah" lname="aydin">Noah Aydin</author>
+    <publisher>Kenyon Review</publisher>
+    <price>2.99</price>
+  </book>
+  <book isbn10="43567566765" isbn13="0984837828189">
+    <title>Physics Today</title>
+    <author fname="christian" lname="solorio">Christian Solorio</author>
+    <publisher>Solorio Books</publisher>
+    <price>133.99</price>
+  </book>
+  <book isbn10="3456543456" isbn13="0984837828189">
+    <title>The Land of Molecules</title>
+    <author fname="preston" lname="basting">Preston Basting</author>
+    <publisher>PrestoBooks</publisher>
+    <price>399.99</price>
+  </book>
+  <book isbn10="1011010010" isbn13="0984837828189">
+    <title>The life and times of a computer science professor</title>
+    <author fname="James" lname="skon">James Skon</author>
+    <publisher>Books-o-Joy</publisher>
+    <price>16.99</price>
+  </book>
+  <book isbn10="657893456" isbn13="6745678967834">
+    <title>Python for Pirates</title>
+    <author fname="Earl" lname="Smithington">Earl Smithington</author>
+    <publisher>Outlandish Pub</publisher>
+    <price>12.59</price>
+  </book>
+  <book isbn10="54353454353" isbn13="5434542254542">
+    <title>C++ for Pokemon</title>
+    <author fname="Hobbit" lname="Priestmagnet">Hobbit Priestmagnet</author>
+    <publisher>Priestmagnet Enterprises LTD</publisher>
+    <price>57.99</price>
+  </book>
+  <book isbn10="54353454353" isbn13="5434542254542">
+      <title>Data Visualization for C++ Programmers</title>
+    <author fname="Jenson" lname="Shurbert">Jensen Shurbert</author>
+    <publisher>Shurbert Coding Empire</publisher>
+    <price>177.99</price>
+  </book>
+  <book isbn10="54353468374" isbn13="5434542341112">
+      <title>Data Visualization for C++ Programmers</title>
+    <author fname="Miles" lname="Shebar">Miles Shebar</author>
+    <publisher>Books-o-exellent</publisher>
+    <price>29.99</price>
+  </book>
+</library>
